@@ -3,3 +3,4 @@ ansible-lab/app01/.vagrant/*
 ansible-lab/control-node/.vagrant/*
 ansible-lab/db01/.vagrant/*
 docker-lab/.vagrant/*
+swarm-lab/.vagrant/*
