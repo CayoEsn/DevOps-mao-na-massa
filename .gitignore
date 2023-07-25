@@ -4,3 +4,4 @@ ansible-lab/control-node/.vagrant/*
 ansible-lab/db01/.vagrant/*
 docker-lab/.vagrant/*
 swarm-lab/.vagrant/*
+sonarqube-lab/.vagrant/*
