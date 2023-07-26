@@ -5,3 +5,4 @@ ansible-lab/db01/.vagrant/*
 docker-lab/.vagrant/*
 swarm-lab/.vagrant/*
 sonarqube-lab/.vagrant/*
+jenkins-lab/.vagrant/*
