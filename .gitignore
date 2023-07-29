@@ -6,3 +6,4 @@ docker-lab/.vagrant/*
 swarm-lab/.vagrant/*
 sonarqube-lab/.vagrant/*
 jenkins-lab/.vagrant/*
+k3s-lab/.vagrant/*
